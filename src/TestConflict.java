@@ -10,6 +10,8 @@ public class TestConflict {
     }
 
     public void test2() {
-        System.out.println("Dev C");
+        System.out.println("Dev D + Dec C");
+        System.out.println("Hura!");
+
     }
 }
