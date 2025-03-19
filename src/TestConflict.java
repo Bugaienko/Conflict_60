@@ -6,7 +6,7 @@
 public class TestConflict {
 
     public void test1() {
-        // Todo task for dev A
+        System.out.println("Developer B impl!");
     }
 
     public void test2() {
