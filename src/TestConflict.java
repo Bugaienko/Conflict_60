@@ -10,6 +10,6 @@ public class TestConflict {
     }
 
     public void test2() {
-        // Todo task for dev B
+        System.out.println("Dev C");
     }
 }
