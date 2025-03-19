@@ -6,7 +6,7 @@
 public class TestConflict {
 
     public void test1() {
-        System.out.println("Developer B impl!");
+       System.out.println("Implementation by Developer A + B");
     }
 
     public void test2() {
